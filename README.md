@@ -6,3 +6,4 @@ You probably play (or have played) video games. Chances are you have also had so
 We are going to use an application called [Visual Studio Code](https://code.visualstudio.com/docs/) to write the 300 lines of code for the game. It is a IDE created by Microsoft and has many nice features, like syntax highlighting and auto-completion (called IntelliSense).
 
 ## Have fun creating your game :computer: :video_game:
+Also most of this tutorial is not ready yet. come back soon :D
