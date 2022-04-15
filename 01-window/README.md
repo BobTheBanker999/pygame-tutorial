@@ -26,6 +26,12 @@ Now we need to initialize pygame so that it is ready to be used in our game:
 # Initialize pygame
 pygame.init()
 ```
+Now we can set up a clock to manage frame rate:
+
+```py
+# Set up the clock
+clock = pygame.time.Clock()
+```
 
 And now we can create the screen:
 
@@ -79,4 +85,6 @@ Before we run the code, we must save our file. Press `Ctrl-S` on Windows or `Com
 cd Desktop
 python3 main.py
 ```
-This should open up a plain, black window that is titled `CAPTION HERE`. Congrats! You now have a window where we can put the player in the next lesson!
+This should open up a plain, black window that is titled `CAPTION HERE`. Congrats! You now have a window where we can put the player in the next lesson! 
+
+*You can find the code in 01-window/main.py*
