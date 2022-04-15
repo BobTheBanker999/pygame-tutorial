@@ -10,6 +10,9 @@ SCREEN_H = 600
 # Initialize pygame
 pygame.init()
 
+# Set up the clock
+clock = pygame.time.Clock()
+
 # Create screen
 screen = pygame.display.set_mode([SCREEN_W, SCREEN_H])
 # Set Screen title
